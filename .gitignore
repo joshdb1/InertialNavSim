@@ -2,6 +2,7 @@
 *.slo
 *.lo
 *.o
+*.cpp.o
 *.obj
 
 # Precompiled Headers
@@ -26,6 +27,7 @@
 *.exe
 *.out
 *.app
+inertial_nav
 
 # Logfiles
 *.tlog
