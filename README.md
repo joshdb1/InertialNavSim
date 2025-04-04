@@ -1,0 +1,5 @@
+This is an adaption of an inertial navigation project from my Spacecraft Navigation course in college. The original used MATLAB, while this uses C++.
+
+The project simulates a rocket launching off the Moon at a specific launch trajectory. The launch trajectory consists of 30 seconds of powered flight (the solid rocket motor) followed by 70 seconds of unpowered coasting flight (for a total of 100 seconds). During the first 2 seconds the vehicle rises vertically. During the next 28 seconds, the vehicle pitches over at a constant angular rate through a total angle of 90 degrees.
+
+This simulation uses linear covariance analysis to determine the NED components of the position and velocity errors (1-sigma) of the IMU sensor measurements. It then simulates the entire path and shows the total position and velocity error relative to the known actual position and velocity.
