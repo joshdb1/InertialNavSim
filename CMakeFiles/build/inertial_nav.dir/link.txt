@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/build/inertial_nav.dir/main.cpp.o CMakeFiles/build/inertial_nav.dir/quaternion.cpp.o CMakeFiles/build/inertial_nav.dir/utils.cpp.o -o build/inertial_nav 

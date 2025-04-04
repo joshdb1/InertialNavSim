@@ -1,0 +1,3 @@
+/mnt/d/Documents/projects/Job Stuff/IMU/CMakeFiles/inertial_nav.dir
+/mnt/d/Documents/projects/Job Stuff/IMU/CMakeFiles/edit_cache.dir
+/mnt/d/Documents/projects/Job Stuff/IMU/CMakeFiles/rebuild_cache.dir
